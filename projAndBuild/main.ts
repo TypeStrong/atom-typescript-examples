@@ -1,3 +1,4 @@
 import foo = require('./foo');
-console.log(foo);
+/// <reference path ="./foo"/>
 foo.something = 123;
+console.log(foo);

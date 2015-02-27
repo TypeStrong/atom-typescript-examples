@@ -1,3 +1,3 @@
 var foo = require('./foo');
-console.log(foo);
 foo.something = 123;
+console.log(foo);

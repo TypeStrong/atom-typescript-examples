@@ -1,1 +1,1 @@
-export var something = 123;
+export var something = 123
