@@ -12,6 +12,6 @@
         "!node_modules/**/*.ts"
     ],
     "files": [
-        "./test.ts"
+        "./dynamicGrammarTest.ts"
     ]
 }

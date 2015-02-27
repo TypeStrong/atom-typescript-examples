@@ -16,7 +16,7 @@ var bas: IAwesome<any>;
 /*
     in
     many
-    lines
+    liness
 */
 
 console.log(foo);
