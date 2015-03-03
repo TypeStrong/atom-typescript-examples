@@ -13,6 +13,7 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
-        "./bomtest.ts"
+        "./bomtest.ts",
+        "./nobomtest.ts"
     ]
 }
