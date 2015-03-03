@@ -1,3 +1,1 @@
-﻿module Foo {
-
-}
+﻿var foo = 123;
