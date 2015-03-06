@@ -1,9 +1,10 @@
 // Press tab NEO
-while
 //
 ///
-interface
-class
-arr
+while
 if
 ifel
+interface
+class
+function
+arr
