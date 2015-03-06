@@ -13,6 +13,7 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
-        "./foo.ts"
+        "./mod1/foo.ts",
+        "./mod2/bar.ts"
     ]
 }
