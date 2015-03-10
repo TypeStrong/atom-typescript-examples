@@ -14,7 +14,7 @@
     "files": [
         "./test.ts"
     ],
-    "format": {
+    "formatCodeOptions": {
         "placeOpenBraceOnNewLineForFunctions": true
     }
 }

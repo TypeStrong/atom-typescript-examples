@@ -14,7 +14,7 @@
     "files": [
         "./format.ts"
     ],
-    "format": {
+    "formatCodeOptions": {
         "indentSize": 10
     }
 }
