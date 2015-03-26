@@ -13,6 +13,7 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
-        "./symbolsView.ts"
+        "./fileSymbolsView.ts",
+        "./projectSymbolsView.ts"
     ]
 }
