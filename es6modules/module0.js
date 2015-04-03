@@ -3,4 +3,4 @@ var Foo = (function () {
     }
     return Foo;
 })();
-module.exports = Foo;
+exports.default = Foo;
