@@ -1,7 +1,7 @@
 {
     "version": "1.4.1",
     "compilerOptions": {
-        "target": "es5",
+        "target": "es6",
         "module": "commonjs",
         "declaration": false,
         "noImplicitAny": false,
@@ -13,12 +13,6 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
-        "./anotherCycle1.ts",
-        "./anotherCycle2.ts",
-        "./anotherCycle3.ts",
-        "./circular1.ts",
-        "./circular2.ts",
-        "./doesNotDependOnAnything.ts",
-        "./onlyDependsOnOtherStuff.ts"
+        "./es6Target.ts"
     ]
 }
