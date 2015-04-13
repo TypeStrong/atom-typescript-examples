@@ -1,0 +1,3 @@
+interface MultipleDefinition {
+    b: number;
+}
