@@ -5,6 +5,3 @@ class Test {
         foo.something = 123;
     }
 }
-
-class OtherTest {
-}

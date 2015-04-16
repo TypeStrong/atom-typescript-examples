@@ -13,6 +13,7 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
-        "./classAddMember.ts"
+        "./classAddMember.ts",
+        "./otherTest.ts"
     ]
 }

@@ -6,8 +6,3 @@ var Test = (function () {
     }
     return Test;
 })();
-var OtherTest = (function () {
-    function OtherTest() {
-    }
-    return OtherTest;
-})();
