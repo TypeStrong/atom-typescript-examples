@@ -8,11 +8,13 @@ class Test {
             fancy: 123,
             fancier: '123'
         };
-        
+
         var bar: Bar;
         bar.foo = 123;
     }
 }
 
-interface Bar {
+module Foo {
+    interface Bar {
+    }
 }
