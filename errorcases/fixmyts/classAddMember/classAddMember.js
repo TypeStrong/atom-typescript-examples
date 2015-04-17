@@ -6,6 +6,7 @@ var Test = (function () {
             fancy: 123,
             fancier: '123'
         };
+        this.foo = new OtherTest();
     }
     return Test;
 })();
