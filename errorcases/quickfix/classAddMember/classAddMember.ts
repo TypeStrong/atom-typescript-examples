@@ -9,12 +9,12 @@ class Test {
             fancier: '123'
         };
 
-        var bar: Bar;
+        var bar: Foo.Bar;
         bar.foo = 123;
     }
 }
 
 module Foo {
-    interface Bar {
+    export interface Bar {
     }
 }
