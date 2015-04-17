@@ -6,6 +6,8 @@ var Test = (function () {
             fancy: 123,
             fancier: '123'
         };
+        var bar;
+        bar.foo = 123;
     }
     return Test;
 })();
