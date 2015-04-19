@@ -6,3 +6,5 @@ var bar = require("example-typescript-a/dist/bar");
 console.log(bar.bar);
 var bas = require("example-typescript-a/dist/bas");
 console.log(bas.bas);
+var b = require("example-typescript-b");
+console.log(b.foo);

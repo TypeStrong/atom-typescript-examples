@@ -9,3 +9,6 @@ console.log(bar.bar);
 
 import bas = require("example-typescript-a/dist/bas");
 console.log(bas.bas);
+
+import b = require("example-typescript-b");
+console.log(b.foo);
