@@ -1,8 +1,8 @@
 {
-  "name": "example-typescript-test",
+  "name": "example-typescript",
   "version": "0.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/main.js",
   "dependencies": {
     "example-typescript-a": "~0.0.0"
   },
