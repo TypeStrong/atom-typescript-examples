@@ -1,16 +1,16 @@
-declare module 'withDist/javascript/bar' {
+declare module 'something/javascript/bar' {
     export var bar: any;
 
 }
-declare module 'withDist/javascript/bas' {
+declare module 'something/javascript/bas' {
     export var bas: any;
 
 }
-declare module 'withDist/javascript/foo' {
+declare module 'something/javascript/foo' {
     export var foo: any;
 
 }
-declare module 'withDis' {
-    import _ = require('withDist/javascript/foo');
+declare module 'something' {
+    import _ = require('something/javascript/foo');
     export = _;
 }
