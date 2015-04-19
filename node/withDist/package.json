@@ -1,0 +1,14 @@
+{
+  "name": "don't care",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./javascript/foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typescript": {
+      "definition": "./javascript/withdist.d.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
