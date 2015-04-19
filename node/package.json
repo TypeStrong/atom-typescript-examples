@@ -1,0 +1,12 @@
+{
+  "name": "example-typescript-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "example-typescript-a": "~0.0.0"
+  },
+  "devDependencies": {},
+  "author": "basaratali@gmail.com",
+  "license": "MIT"
+}
