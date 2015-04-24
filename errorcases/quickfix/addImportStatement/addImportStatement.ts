@@ -1,3 +1,1 @@
-
-
 var foo = somefi.foo;
