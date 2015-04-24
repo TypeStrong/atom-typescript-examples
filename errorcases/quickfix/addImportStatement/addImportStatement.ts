@@ -1,3 +1,3 @@
 
 
-var foo = someFile.foo;
+var foo = somefi.foo;
