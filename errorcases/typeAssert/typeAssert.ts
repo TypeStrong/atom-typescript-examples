@@ -1,3 +1,3 @@
-window.awesome = 123;
-window.close.awesome = 123; 
-window.awesome;
+window.something = {};
+window.something.awesome = 123; 
+window.something.awesome.toPrecision(0);
