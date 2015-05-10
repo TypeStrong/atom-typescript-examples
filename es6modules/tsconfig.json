@@ -7,16 +7,5 @@
         "noImplicitAny": false,
         "removeComments": true,
         "noLib": false
-    },
-    "filesGlob": [
-        "./**/*.ts",
-        "!./node_modules/**/*.ts"
-    ],
-    "files": [
-        "./ambient.d.ts",
-        "./es6moduleTest.ts",
-        "./module0.ts",
-        "./module1.ts",
-        "./module2.d.ts"
-    ]
+    }
 }
