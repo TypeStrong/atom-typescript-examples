@@ -11,3 +11,4 @@ function bar(soemthing) {
  * IDEA: use `any`
  */
 bar('123');
+/** BUG :  */ 
