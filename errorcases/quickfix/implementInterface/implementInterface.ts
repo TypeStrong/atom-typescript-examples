@@ -7,6 +7,10 @@ interface SomethingSplit {
     c;
 }
 
-class BigClass implements SomethingSplit{
+class BigClass implements SomethingSplit {
     hasAMember: string
+
+    hasAMethod() {
+        console.log('stuff should go *after* this as implementing interface is fairly *noisy* process.');
+    }
 }
