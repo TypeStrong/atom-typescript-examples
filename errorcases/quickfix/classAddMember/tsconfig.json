@@ -13,6 +13,7 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
+        "./callExpression.ts",
         "./classAddMember.ts",
         "./otherTest.ts"
     ]
