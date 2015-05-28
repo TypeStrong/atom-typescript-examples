@@ -1,8 +1,9 @@
-export class Awesome{
-    a = 123; 
+export class Awesome {
+    a = 123;
     b = '456';
     somethingNotTyped;
-    constructor(){
-        this.call(this.a,this.b)
+    
+    constructor() {
+        this.memberFunction(this.a, this.b, this.somethingNotTyped);
     }
 } 
