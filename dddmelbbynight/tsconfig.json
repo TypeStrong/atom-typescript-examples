@@ -1,0 +1,28 @@
+{
+    "version": "1.5.0-alpha",
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "preserveConstEnums": true,
+        "suppressImplicitAnyIndexErrors": true
+    },
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./arrowfunctions.ts",
+        "./classes.ts",
+        "./destruct.ts",
+        "./externaldeclarations.ts",
+        "./templatestrings.ts",
+        "./types.ts",
+        "./typings/bundle.d.ts",
+        "./typings/jquery/jquery.d.ts",
+        "./typings/node/node.d.ts"
+    ]
+}
