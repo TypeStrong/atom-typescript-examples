@@ -8,11 +8,7 @@
         "removeComments": true,
         "noLib": false
     },
-    "filesGlob": [
-        "./**/*.ts",
-        "!./node_modules/**/*.ts"
-    ],
-    "files": [
+    "files": [        
         "./dtsonly.ts"
     ]
 }
