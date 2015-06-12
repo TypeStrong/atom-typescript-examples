@@ -1,5 +1,4 @@
 class Foo {
-    constructor(public bar: number) {
-        
+    constructor(public bar: number) {        
     }
 }
