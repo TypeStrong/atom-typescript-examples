@@ -1,3 +1,6 @@
 // some comment
-function foo(){    
+export function foo(){    
 }
+
+// this is an awesome bar
+var bar = {}
