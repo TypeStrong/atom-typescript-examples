@@ -1,4 +1,4 @@
-debugger;
+;debugger;
 var foo = 123;
 class Bar {
     static bar: number;
