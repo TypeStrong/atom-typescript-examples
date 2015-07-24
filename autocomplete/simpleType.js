@@ -1,5 +1,3 @@
-function w(x) {
-    return '';
-}
+function w(x) { return ''; }
 w({});
 w({ test: '' });
