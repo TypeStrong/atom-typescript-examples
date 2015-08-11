@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "module": "commonjs"
+    },
+    "filesGlob": [
+        "./**/*.ts",
+        "./**/*.tsx",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./typings/react/react.d.ts",
+        "./typings/tsd.d.ts",
+        "./sample.tsx"
+    ]
+}
