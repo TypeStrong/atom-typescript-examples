@@ -13,6 +13,7 @@
     ],
     "files": [
         "./611/generic.ts",
+        "./611/implements.ts",
         "./grammartest.ts"
     ]
 }
