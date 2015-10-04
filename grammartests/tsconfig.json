@@ -12,6 +12,7 @@
         "!node_modules/**/*.ts"
     ],
     "files": [
+        "./611/generic.ts",
         "./grammartest.ts"
     ]
 }
