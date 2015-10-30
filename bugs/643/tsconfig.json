@@ -1,0 +1,22 @@
+{
+    "transpiler": "typescript",
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es6",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "noLib": false,
+        "outDir": "build"
+    },
+    "filesGlob": [
+        "./src/*.ts"
+    ],
+    "files": [
+        "./src/a.ts",
+        "./src/b.ts"
+    ],
+    "exclude": []
+}
