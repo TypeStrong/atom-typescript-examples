@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": false,
+        "noLib": false
+    },
+    "compileOnSave": true,
+    "filesGlob": [
+        "./**/*.ts"
+    ],
+    "files": [
+        "./main.ts",
+        "./test/index.ts"
+    ],
+    "exclude": []
+}
