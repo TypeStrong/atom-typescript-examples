@@ -3,18 +3,18 @@
         "target": "es5",
         "module": "commonjs",
         "moduleResolution": "node",
+        "isolatedModules": false,
+        "jsx": "react",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
         "declaration": false,
         "noImplicitAny": false,
-        "removeComments": false,
-        "noLib": false
+        "removeComments": true,
+        "noLib": false,
+        "preserveConstEnums": true,
+        "suppressImplicitAnyIndexErrors": true
     },
-    "compileOnSave": true,
-    "filesGlob": [
-        "./**/*.ts"
-    ],
     "files": [
-        "./main.ts",
-        "./test/index.ts"
-    ],
-    "exclude": []
+        "main.ts"
+    ]
 }
