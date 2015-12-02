@@ -12,17 +12,17 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, Promi
         step("next", void 0);
     });
 };
-class Foo {
-    foo() {
-        return __awaiter(this, void 0, Promise, function* () {
-            return 123;
-        });
-    }
-}
-new Foo().foo().then((x) => console.log(x));
 function foo() {
     return __awaiter(this, void 0, Promise, function* () {
         return 123;
     });
 }
-foo().then((x) => console.log(x));
+class Foo {
+    foo() {
+        return __awaiter(this, void 0, Promise, function* () {
+            let res = yield foo();
+            return res;
+        });
+    }
+}
+new Foo().foo().then((x) => console.log(x));
