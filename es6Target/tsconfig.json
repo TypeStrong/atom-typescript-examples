@@ -14,5 +14,8 @@
     ],
     "files": [
         "./es6Target.ts"
-    ]
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
 }
