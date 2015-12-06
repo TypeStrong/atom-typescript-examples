@@ -20,5 +20,8 @@
     ],
     "files": [
         "./htmltotsx.tsx"
-    ]
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
 }

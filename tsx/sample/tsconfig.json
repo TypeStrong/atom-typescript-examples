@@ -12,5 +12,8 @@
         "./typings/react/react.d.ts",
         "./typings/tsd.d.ts",
         "./sample.tsx"
-    ]
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
 }
